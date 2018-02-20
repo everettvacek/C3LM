@@ -1,3 +1,6 @@
 [submodule "13918516hqnrqfqmjdxh"]
 	path = c3lm_technical/
 	url = https://git.overleaf.com/13918516hqnrqfqmjdxh
+[submodule "13918183jhdtsddjkkbb"]
+	path = c3lm_manual/
+	url = https://git.overleaf.com/13918183jhdtsddjkkbb
